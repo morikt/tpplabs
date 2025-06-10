@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\\u0412\u0423\u0417\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 2\\\u0422\u041F\u041F\\Lab9MultiStepForm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{519E17DC-E828-4BF6-A8EC-A60C2A818B13}|Lab9MultiStepForm\\Lab9MultiStepForm.csproj|C:\\Users\\user\\Desktop\\\u0412\u0423\u0417\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 2\\\u0422\u041F\u041F\\Lab9MultiStepForm\\lab9multistepform\\pages\\contactpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{519E17DC-E828-4BF6-A8EC-A60C2A818B13}|Lab9MultiStepForm\\Lab9MultiStepForm.csproj|solutionrelative:lab9multistepform\\pages\\contactpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{519E17DC-E828-4BF6-A8EC-A60C2A818B13}|Lab9MultiStepForm\\Lab9MultiStepForm.csproj|C:\\Users\\user\\Desktop\\\u0412\u0423\u0417\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 2\\\u0422\u041F\u041F\\Lab9MultiStepForm\\lab9multistepform\\pages\\personalpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{519E17DC-E828-4BF6-A8EC-A60C2A818B13}|Lab9MultiStepForm\\Lab9MultiStepForm.csproj|solutionrelative:lab9multistepform\\pages\\personalpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{519E17DC-E828-4BF6-A8EC-A60C2A818B13}|Lab9MultiStepForm\\Lab9MultiStepForm.csproj|C:\\Users\\user\\Desktop\\\u0412\u0423\u0417\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 2\\\u0422\u041F\u041F\\Lab9MultiStepForm\\lab9multistepform\\pages\\addresspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{519E17DC-E828-4BF6-A8EC-A60C2A818B13}|Lab9MultiStepForm\\Lab9MultiStepForm.csproj|solutionrelative:lab9multistepform\\pages\\addresspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{519E17DC-E828-4BF6-A8EC-A60C2A818B13}|Lab9MultiStepForm\\Lab9MultiStepForm.csproj|C:\\Users\\user\\Desktop\\\u0412\u0423\u0417\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 2\\\u0422\u041F\u041F\\Lab9MultiStepForm\\lab9multistepform\\pages\\contactpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{519E17DC-E828-4BF6-A8EC-A60C2A818B13}|Lab9MultiStepForm\\Lab9MultiStepForm.csproj|solutionrelative:lab9multistepform\\pages\\contactpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{519E17DC-E828-4BF6-A8EC-A60C2A818B13}|Lab9MultiStepForm\\Lab9MultiStepForm.csproj|C:\\Users\\user\\Desktop\\\u0412\u0423\u0417\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 2\\\u0422\u041F\u041F\\Lab9MultiStepForm\\lab9multistepform\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{519E17DC-E828-4BF6-A8EC-A60C2A818B13}|Lab9MultiStepForm\\Lab9MultiStepForm.csproj|solutionrelative:lab9multistepform\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{519E17DC-E828-4BF6-A8EC-A60C2A818B13}|Lab9MultiStepForm\\Lab9MultiStepForm.csproj|c:\\users\\user\\desktop\\\u0432\u0443\u0437\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440 2\\\u0442\u043F\u043F\\lab9multistepform\\lab9multistepform\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{519E17DC-E828-4BF6-A8EC-A60C2A818B13}|Lab9MultiStepForm\\Lab9MultiStepForm.csproj|solutionrelative:lab9multistepform\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{519E17DC-E828-4BF6-A8EC-A60C2A818B13}|Lab9MultiStepForm\\Lab9MultiStepForm.csproj|C:\\Users\\user\\Desktop\\\u0412\u0423\u0417\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 2\\\u0422\u041F\u041F\\Lab9MultiStepForm\\lab9multistepform\\pages\\addresspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{519E17DC-E828-4BF6-A8EC-A60C2A818B13}|Lab9MultiStepForm\\Lab9MultiStepForm.csproj|solutionrelative:lab9multistepform\\pages\\addresspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{519E17DC-E828-4BF6-A8EC-A60C2A818B13}|Lab9MultiStepForm\\Lab9MultiStepForm.csproj|C:\\Users\\user\\Desktop\\\u0412\u0423\u0417\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 2\\\u0422\u041F\u041F\\Lab9MultiStepForm\\lab9multistepform\\pages\\personalpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{519E17DC-E828-4BF6-A8EC-A60C2A818B13}|Lab9MultiStepForm\\Lab9MultiStepForm.csproj|solutionrelative:lab9multistepform\\pages\\personalpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContactPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0412\u0423\u0417\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 2\\\u0422\u041F\u041F\\Lab9MultiStepForm\\Lab9MultiStepForm\\Pages\\ContactPage.xaml.cs",
+              "RelativeDocumentMoniker": "Lab9MultiStepForm\\Pages\\ContactPage.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u0412\u0423\u0417\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 2\\\u0422\u041F\u041F\\Lab9MultiStepForm\\Lab9MultiStepForm\\Pages\\ContactPage.xaml.cs",
+              "RelativeToolTip": "Lab9MultiStepForm\\Pages\\ContactPage.xaml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T09:23:43.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonalPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0412\u0423\u0417\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 2\\\u0422\u041F\u041F\\Lab9MultiStepForm\\Lab9MultiStepForm\\Pages\\PersonalPage.xaml.cs",
+              "RelativeDocumentMoniker": "Lab9MultiStepForm\\Pages\\PersonalPage.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u0412\u0423\u0417\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 2\\\u0422\u041F\u041F\\Lab9MultiStepForm\\Lab9MultiStepForm\\Pages\\PersonalPage.xaml.cs",
+              "RelativeToolTip": "Lab9MultiStepForm\\Pages\\PersonalPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T09:20:27.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddressPage.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0412\u0423\u0417\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 2\\\u0422\u041F\u041F\\Lab9MultiStepForm\\Lab9MultiStepForm\\Pages\\AddressPage.xaml",
+              "RelativeDocumentMoniker": "Lab9MultiStepForm\\Pages\\AddressPage.xaml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u0412\u0423\u0417\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 2\\\u0422\u041F\u041F\\Lab9MultiStepForm\\Lab9MultiStepForm\\Pages\\AddressPage.xaml",
+              "RelativeToolTip": "Lab9MultiStepForm\\Pages\\AddressPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-10T09:19:30.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContactPage.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0412\u0423\u0417\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 2\\\u0422\u041F\u041F\\Lab9MultiStepForm\\Lab9MultiStepForm\\Pages\\ContactPage.xaml",
+              "RelativeDocumentMoniker": "Lab9MultiStepForm\\Pages\\ContactPage.xaml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u0412\u0423\u0417\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 2\\\u0422\u041F\u041F\\Lab9MultiStepForm\\Lab9MultiStepForm\\Pages\\ContactPage.xaml",
+              "RelativeToolTip": "Lab9MultiStepForm\\Pages\\ContactPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-10T09:19:16.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0412\u0423\u0417\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 2\\\u0422\u041F\u041F\\Lab9MultiStepForm\\Lab9MultiStepForm\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Lab9MultiStepForm\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u0412\u0423\u0417\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 2\\\u0422\u041F\u041F\\Lab9MultiStepForm\\Lab9MultiStepForm\\MainWindow.xaml",
+              "RelativeToolTip": "Lab9MultiStepForm\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-10T09:17:04.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0412\u0423\u0417\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 2\\\u0422\u041F\u041F\\Lab9MultiStepForm\\Lab9MultiStepForm\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Lab9MultiStepForm\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u0412\u0423\u0417\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 2\\\u0422\u041F\u041F\\Lab9MultiStepForm\\Lab9MultiStepForm\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Lab9MultiStepForm\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T09:17:04.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddressPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0412\u0423\u0417\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 2\\\u0422\u041F\u041F\\Lab9MultiStepForm\\Lab9MultiStepForm\\Pages\\AddressPage.xaml.cs",
+              "RelativeDocumentMoniker": "Lab9MultiStepForm\\Pages\\AddressPage.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u0412\u0423\u0417\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 2\\\u0422\u041F\u041F\\Lab9MultiStepForm\\Lab9MultiStepForm\\Pages\\AddressPage.xaml.cs",
+              "RelativeToolTip": "Lab9MultiStepForm\\Pages\\AddressPage.xaml.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA1wBAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T09:44:03.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PersonalPage.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0412\u0423\u0417\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 2\\\u0422\u041F\u041F\\Lab9MultiStepForm\\Lab9MultiStepForm\\Pages\\PersonalPage.xaml",
+              "RelativeDocumentMoniker": "Lab9MultiStepForm\\Pages\\PersonalPage.xaml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u0412\u0423\u0417\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 2\\\u0422\u041F\u041F\\Lab9MultiStepForm\\Lab9MultiStepForm\\Pages\\PersonalPage.xaml",
+              "RelativeToolTip": "Lab9MultiStepForm\\Pages\\PersonalPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-10T09:18:45.827Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

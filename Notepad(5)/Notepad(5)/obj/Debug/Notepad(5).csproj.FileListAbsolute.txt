@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\ВУЗ\Семестр 2\ТПП\Notepad(5)\Notepad(5)\bin\Debug\Notepad(5).exe.config
+C:\Users\user\Desktop\ВУЗ\Семестр 2\ТПП\Notepad(5)\Notepad(5)\bin\Debug\Notepad(5).exe
+C:\Users\user\Desktop\ВУЗ\Семестр 2\ТПП\Notepad(5)\Notepad(5)\bin\Debug\Notepad(5).pdb
+C:\Users\user\Desktop\ВУЗ\Семестр 2\ТПП\Notepad(5)\Notepad(5)\obj\Debug\Notepad(5).csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ВУЗ\Семестр 2\ТПП\Notepad(5)\Notepad(5)\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\ВУЗ\Семестр 2\ТПП\Notepad(5)\Notepad(5)\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\ВУЗ\Семестр 2\ТПП\Notepad(5)\Notepad(5)\obj\Debug\App.g.cs
+C:\Users\user\Desktop\ВУЗ\Семестр 2\ТПП\Notepad(5)\Notepad(5)\obj\Debug\Notepad(5)_MarkupCompile.cache
+C:\Users\user\Desktop\ВУЗ\Семестр 2\ТПП\Notepad(5)\Notepad(5)\obj\Debug\Notepad(5).g.resources
+C:\Users\user\Desktop\ВУЗ\Семестр 2\ТПП\Notepad(5)\Notepad(5)\obj\Debug\Notepad_5_.Properties.Resources.resources
+C:\Users\user\Desktop\ВУЗ\Семестр 2\ТПП\Notepad(5)\Notepad(5)\obj\Debug\Notepad(5).csproj.GenerateResource.cache
+C:\Users\user\Desktop\ВУЗ\Семестр 2\ТПП\Notepad(5)\Notepad(5)\obj\Debug\Notepad(5).csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ВУЗ\Семестр 2\ТПП\Notepad(5)\Notepad(5)\obj\Debug\Notepad(5).exe
+C:\Users\user\Desktop\ВУЗ\Семестр 2\ТПП\Notepad(5)\Notepad(5)\obj\Debug\Notepad(5).pdb

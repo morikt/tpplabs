@@ -1,0 +1,55 @@
+﻿<Window x:Class="WpfNotepad.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Блокнот" Height="450" Width="800"
+        FontFamily="Segoe UI" Background="WhiteSmoke">
+
+    <!-- Обработчики команд New, Open, Save -->
+    <Window.CommandBindings>
+        <CommandBinding Command="ApplicationCommands.New"
+                        Executed="New_Executed"/>
+        <CommandBinding Command="ApplicationCommands.Open"
+                        Executed="Open_Executed"/>
+        <CommandBinding Command="ApplicationCommands.Save"
+                        Executed="Save_Executed"
+                        CanExecute="Save_CanExecute"/>
+    </Window.CommandBindings>
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <!-- Меню -->
+            <RowDefinition Height="Auto"/>
+            <!-- Поле редактора -->
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Меню Файл -->
+        <Menu Grid.Row="0">
+            <MenuItem Header="_Файл">
+                <MenuItem Header="_Новый" 
+                          Command="ApplicationCommands.New" 
+                          InputGestureText="Ctrl+N"/>
+                <MenuItem Header="_Открыть..." 
+                          Command="ApplicationCommands.Open" 
+                          InputGestureText="Ctrl+O"/>
+                <MenuItem Header="_Сохранить" 
+                          Command="ApplicationCommands.Save" 
+                          InputGestureText="Ctrl+S"/>
+                <Separator/>
+                <MenuItem Header="Вы_ход" Click="Exit_Click"/>
+            </MenuItem>
+        </Menu>
+
+        <!-- Текстовый редактор -->
+        <TextBox x:Name="Editor"
+                 Grid.Row="1"
+                 AcceptsReturn="True" 
+                 AcceptsTab="True"
+                 VerticalScrollBarVisibility="Auto"
+                 HorizontalScrollBarVisibility="Auto"
+                 FontSize="14"
+                 TextWrapping="Wrap"
+                 Margin="5"/>
+    </Grid>
+</Window>
+

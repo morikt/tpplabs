@@ -1,0 +1,70 @@
+﻿<Window x:Class="WpfGuessNumber.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:WpfGuessNumber"
+        Title="Угадай число" Height="280" Width="380"
+        Background="LightSteelBlue"
+        FontFamily="Segoe UI"
+        Loaded="Window_Loaded">
+    <Window.DataContext>
+        <local:GameModel/>
+    </Window.DataContext>
+
+    <Grid Margin="15">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <!-- Заголовок -->
+        <Label Grid.Row="0" Content="Игра: Угадай число"
+               FontSize="18"
+               FontWeight="Bold"
+               HorizontalAlignment="Center"
+               Margin="0,0,0,10"
+               Foreground="DarkBlue"/>
+
+        <!-- Метка с подсказкой -->
+        <Label Grid.Row="1" Content="{Binding HintText}"
+               FontSize="16"
+               HorizontalAlignment="Center"
+               Margin="0,0,0,15"
+               Foreground="DarkRed"/>
+
+        <!-- Блок ввода и кнопки "Проверить" -->
+        <StackPanel Grid.Row="2" Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,0,0,15">
+            <TextBox Width="120"
+                     Text="{Binding PlayerInput, UpdateSourceTrigger=PropertyChanged}"
+                     VerticalContentAlignment="Center"
+                     FontSize="14"
+                     Padding="5"
+                     Margin="0,0,10,0"/>
+            <Button Content="Проверить"
+                    Width="100"
+                    FontSize="14"
+                    Background="LightGray"
+                    Click="CheckButton_Click"/>
+        </StackPanel>
+
+        <!-- Количество попыток -->
+        <Label Grid.Row="3" Content="{Binding AttemptsText}"
+               FontSize="14"
+               HorizontalAlignment="Center"
+               Foreground="Black"/>
+
+        <!-- Кнопка "Начать заново" -->
+        <Button Grid.Row="4" Content="Начать заново"
+                Width="140"
+                FontSize="14"
+                Background="LightGray"
+                HorizontalAlignment="Center"
+                Margin="0,15,0,0"
+                Click="RestartButton_Click"/>
+    </Grid>
+</Window>

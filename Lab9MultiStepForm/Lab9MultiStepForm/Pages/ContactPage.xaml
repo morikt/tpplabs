@@ -1,0 +1,16 @@
+﻿<Page x:Class="Lab9MultiStepForm.Pages.ContactPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      Title="Контактные данные">
+    <StackPanel Margin="20">
+        <TextBlock Text="E-mail:"/>
+        <TextBox x:Name="EmailBox" Margin="0 0 0 10"/>
+        <TextBlock Text="Телефон:"/>
+        <TextBox x:Name="PhoneBox" Margin="0 0 0 20"/>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+            <Button Content="Назад" Width="80" Margin="0 0 10 0"
+                    Click="Back_Click"/>
+            <Button Content="Далее" Width="80" Click="Next_Click"/>
+        </StackPanel>
+    </StackPanel>
+</Page>
